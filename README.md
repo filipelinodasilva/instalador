@@ -1,4 +1,4 @@
-<h1 align="center">Whaticket Baileys cumunidade MAV</h1>
+<h1 align="center">ChatGrowth Cumunidade MAV</h1>
 
 <h1 align="center">https://www.youtube.com/@eufilipelino</h1>
 
