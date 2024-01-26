@@ -34,7 +34,7 @@ Email válido para certificação SSL
     Fone: 31 980253910(WhatsApp)
 
 
-## Tudo posso naquele que me fortalece.
+    Tudo posso naquele que me fortalece.
     Filipenses 4:13
 
 
