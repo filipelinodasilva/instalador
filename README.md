@@ -1,4 +1,4 @@
-<h1 align="center">ChatGrowth Cumunidade MAV</h1>
+<h1 align="center">Cumunidade MAV</h1>
 
 <h1 align="center">https://www.youtube.com/@eufilipelino</h1>
 
@@ -27,20 +27,15 @@ Subdominio para API -Seu backend
 
 Email válido para certificação SSL
 
-## Consultoria e contato:
+## Consultoria de Implementação:
 
-    CANAL MAV
+    COMUNIDADE MAV
 
     Fone: 31 980253910(WhatsApp)
 
 
-## Se o conteúdo te ajudou ajude este projeto:
-(Nos ajude a trazer novos conteúdos todos os dias!)
-
-
-Copia e cola:
-
-    Gratuito por tempo limitado
+## Tudo posso naquele que me fortalece.
+    Filipenses 4:13
 
 
 
