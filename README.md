@@ -1,4 +1,4 @@
-<h1 align="center">Cumunidade MAV</h1>
+<h1 align="center">Comunidade MAV</h1>
 
 <h1 align="center">https://www.youtube.com/@eufilipelino</h1>
 
